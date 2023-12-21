@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683792329871",
+    "project_id": "fir-anailytics",
+    "storage_bucket": "fir-anailytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683792329871:android:9171f8613a09f424b794fa",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcktBfeOijjQiztfWEpHP33SvZbwTCI2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
